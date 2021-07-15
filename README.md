@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Abdullah
+- 👀 I’m interested in Cyber Security
+- 🌱 I'm currently learning penetration testing
+- 💞️ I'm looking forward to collaborating on any proplem in the Hacking
